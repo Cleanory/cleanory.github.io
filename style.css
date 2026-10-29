@@ -21,6 +21,7 @@ main.home { max-width: 1040px; }
 .note { color: var(--muted); font-size: 14px; }
 .hero { display: grid; grid-template-columns: 1fr 300px; gap: 48px; align-items: center; padding: 24px 0 56px; }
 .phone { background: #0e1726; padding: 8px; border-radius: 34px; box-shadow: 0 24px 48px -20px rgba(14, 23, 38, .45); }
+@media (prefers-color-scheme: dark) { .phone { background: #2a3650; } }
 .phone img { display: block; width: 100%; height: auto; border-radius: 26px; }
 .shots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
 .shots figure { margin: 0; }
