@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
-<!-- Uygulama ikonuyla aynı çizim: drawable/ic_launcher_background + ic_launcher_foreground -->
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12C79A"/><stop offset="1" stop-color="#2BB8E0"/></linearGradient></defs>
-<rect x="18" y="18" width="72" height="72" rx="20" fill="url(#g)"/>
-<path d="M64.52,43.07 A17,17 0 1,0 64.52,64.93" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
-<path d="M68.5,49.5 Q69.1,53.4 73,54 Q69.1,54.6 68.5,58.5 Q67.9,54.6 64,54 Q67.9,53.4 68.5,49.5 Z" fill="#fff"/>
-</svg>

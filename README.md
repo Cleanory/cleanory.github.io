@@ -1,4 +1,5 @@
-# Cleanory site
+# Cleanory site (eski adres)
 
-Gizlilik politikası ve kullanım koşulları. Elle düzenlenmez:
-`phone-cleaner-android` deposunda `./gradlew generateSite` ile üretilip buraya kopyalanır.
+Site artık https://cleanory.app adresinde. Bu depodaki sayfalar oraya yönlendirir;
+eski gizlilik ve koşullar bağlantıları çalışmaya devam eder.
+Sitenin kaynağı: `phone-cleaner-android` deposundaki `site/` klasörü (`tools/site/deploy.sh`).
